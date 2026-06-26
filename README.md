@@ -138,14 +138,11 @@ Catppuccin
 
 ---
 
-## 📸 Screenshot
+## 📸 Workspace Preview
 
-Add your VS Code screenshot here.
-
-```md
-![VS Code Setup](https://i.postimg.cc/V6YNmShp/Screenshot-2026-06-26-080553.png)
-```
-
+<p align="center">
+  <img src="https://i.postimg.cc/V6YNmShp/Screenshot-2026-06-26-080553.png" alt="VS Code Setup" width="100%">
+</p>
 ---
 
 ### Made with ☕ and lots of debugging
